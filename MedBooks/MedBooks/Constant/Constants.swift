@@ -14,7 +14,7 @@ struct AlertMessages {
     static let emailEmpty = "Email address cannot be empty."
     static let passwordEmpty = "Password cannot be empty."
     static let userExist = "Email adress already registered."
-    static let registerationSuccess = "Registeration success."
+    static let registerationSuccess = "Registration success."
     static let loginSuccess = "Login success."
     static let incorrectPassword = "Incorrect Password."
     static let userNotFound = "User Not Found, Please register first."
