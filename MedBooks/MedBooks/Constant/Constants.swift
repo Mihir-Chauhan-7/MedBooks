@@ -13,7 +13,7 @@ struct AlertMessages {
     static let errorFetchingCountries = "Error Fetching Countries."
     static let emailEmpty = "Email address cannot be empty."
     static let passwordEmpty = "Password cannot be empty."
-    static let userExist = "Email adress already registered."
+    static let userExist = "Email address already registered."
     static let registerationSuccess = "Registration success."
     static let loginSuccess = "Login success."
     static let incorrectPassword = "Incorrect Password."
